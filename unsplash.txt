@@ -1,0 +1,2 @@
+const acessKey = "FZRKJ9FgX8BFQX9mUEQUCzSp3xSr2BOPSY_TdwnGD3A"
+let url = `https://api.unsplash.com/search/collections?pagephotos/?client_id=YOUR_ACCESS_KEY`
